@@ -1,0 +1,7 @@
+{
+    "title": "Шаблон сайта",
+    "subtitle": "не парься, всё уже придумано",
+    "description": "Шаблон для публикации текстовых материалов с оглавлением",
+    "keywords": "web, template, adaptive, sveltekit, sass, scss",
+    "author": "Михаил Беляков"
+}
